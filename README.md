@@ -2,8 +2,13 @@
 Im 3rd-year Software Engineer Student and Database Engineer.
 
 💡"Keep working until it's done"
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/9cc0cfb6-3e4a-4511-aff4-c4cfcba106a9" width="1000">
+</p>
 
-![Art Pixel GIF](https://github.com/user-attachments/assets/091d698f-0265-49b0-a3b0-a42c34d76b8b)
+
+
+
 
 <!--
 **Redflare3/Redflare3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
