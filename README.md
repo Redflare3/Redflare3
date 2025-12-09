@@ -1,4 +1,7 @@
-## Hi there 👋
+## Im Solar!
+Im 3rd-year Software Engineer Student and Database Engineer.
+
+💡"Keep working until it's done"
 
 ![Art Pixel GIF](https://github.com/user-attachments/assets/091d698f-0265-49b0-a3b0-a42c34d76b8b)
 
