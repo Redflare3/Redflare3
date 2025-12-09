@@ -1,5 +1,8 @@
 ## Hi there 👋
+
 ![Uploading Art Pixel GIF.gif…]()
+![pixel art GIF](https://github.com/user-attachments/assets/1f839ab9-59fb-4346-b98c-e36b45f3619c)
+
 
 <!--
 **Redflare3/Redflare3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
