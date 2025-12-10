@@ -1,5 +1,5 @@
 ## Im Solar!
-Im 3rd-year Software Engineer Student and Database Engineer.
+Im 2nd-year Software Engineer Student and Database Engineer.
 
 💡"Keep working until it's done"
 <p align="center">
