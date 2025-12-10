@@ -5,8 +5,16 @@ Im 2nd-year Software Engineer Student and Database Engineer.
 <p align="center">
   <img src="https://github.com/user-attachments/assets/9cc0cfb6-3e4a-4511-aff4-c4cfcba106a9" width="1000">
 </p>
+<hr style="height: 3px; background: white; border: none;">
 
+🔭 I’m currently working on
 
+- Protofolio Website with tailwind
+<hr style="height: 3px; background: white; border: none;">
+
+🌱 I’m currently learning
+- SQL
+- Tailwind
 
 
 
