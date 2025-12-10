@@ -2,10 +2,13 @@
 Im 2nd-year Software Engineer Student and Database Engineer.
 
 💡"Keep working until it's done"
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/9cc0cfb6-3e4a-4511-aff4-c4cfcba106a9" width="1000">
-</p>
+<div style="border: 2px solid #4CAF50; padding: 10px; border-radius: 8px;">
+
+  <img src="https://github.com/user-attachments/assets/ab4ee464-01dd-4b15-aff8-3f972b36ff4a" width="1000" height ="auto" >
+
+</div>
 <hr style="height: 3px; background: white; border: none;">
+<!-- ![Pixel Art Wallpaper GIF](https://github.com/user-attachments/assets/ab4ee464-01dd-4b15-aff8-3f972b36ff4a) -->
 
 🔭 I’m currently working on
 
