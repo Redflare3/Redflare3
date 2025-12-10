@@ -10,11 +10,13 @@ Im 2nd-year Software Engineer Student and Database Engineer.
 🔭 I’m currently working on
 
 - Protofolio Website with tailwind
+- Note on Data-Structure
 <hr style="height: 3px; background: white; border: none;">
 
 🌱 I’m currently learning
 - SQL
 - Tailwind
+- Data-Structures
 
 
 
