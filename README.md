@@ -1,5 +1,5 @@
 ## Im Solar!
-Im 2nd-year Software Engineer Student and Database Engineer.
+Im 2nd-year Software Engineer Student and currently learning to be Database Engineer.
 
 💡"Keep working until it's done"
 <div style="border: 2px solid #4CAF50; padding: 10px; border-radius: 8px;">
@@ -12,13 +12,12 @@ Im 2nd-year Software Engineer Student and Database Engineer.
 
 🔭 I’m currently working on
 
-- Protofolio Website with tailwind
+- Database Warehouse
 <hr style="height: 3px; background: white; border: none;">
 
 🌱 I’m currently learning
 - SQL
-- Tailwind
-- Data-Structures
+
 
 
 
