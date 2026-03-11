@@ -12,7 +12,7 @@ Im 2nd-year Software Engineer Student and currently learning to be Database Engi
 
 🔭 I’m currently working on
 
-- Database Warehouse
+- Data Warehouse
 <hr style="height: 3px; background: white; border: none;">
 
 🌱 I’m currently learning
