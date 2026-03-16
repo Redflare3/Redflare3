@@ -1,4 +1,4 @@
-## Im Solar!
+## Im Solar
 Im 2nd-year Software Engineer Student and currently learning to be Database Engineer.
 
 "Lady Luck keep smiling on me" 🍀
