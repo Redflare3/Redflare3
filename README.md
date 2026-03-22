@@ -18,7 +18,7 @@ Im 2nd-year Software Engineer Student and currently learning to be Database Engi
 🌱 I’m currently learning
 - SQL
 
-Today i did nothing
+
 
 
 <!--
