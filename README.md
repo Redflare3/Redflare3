@@ -1,7 +1,7 @@
 ## Im Aoki Jiro
 Im 2nd-year Software Engineer Student and currently learning to be Database Engineer.
 
-"Lady Luck keep smiling on me" 🍀
+"Looking left because this aint right"
 <div style="border: 2px solid #4CAF50; padding: 10px; border-radius: 8px;">
 
   <img src="https://github.com/user-attachments/assets/ab4ee464-01dd-4b15-aff8-3f972b36ff4a" width="1000" height ="auto" >
