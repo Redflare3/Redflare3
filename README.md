@@ -1,5 +1,5 @@
-<h1 align="center">Hello world, I'm Muhammad Zaki</h1>
-<h3 align="center">Im 3rd-year Software Engineer Student and currently learning to be Database Engineer</h3>
+<h1>Hello world, I'm Muhammad Zaki</h1>
+<h3>Im 3rd-year Software Engineer Student and currently learning to be Database Engineer</h3>
 
 - 📫 How to reach me **zaki.znf@gmail.com**
 
